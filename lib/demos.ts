@@ -13,11 +13,11 @@ export const demos: { name: string; items: Item[] }[] = [
                 slug: 'abi-interaction',
                 description: 'Interact contract with ABI',
             },
-            {
-                name: 'Grouped Layouts',
-                slug: 'route-groups',
-                description: 'Organize routes without affecting URL paths',
-            },
+            // {
+            //     name: 'Grouped Layouts',
+            //     slug: 'route-groups',
+            //     description: 'Organize routes without affecting URL paths',
+            // },
         ],
     },
     // {
