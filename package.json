@@ -11,6 +11,7 @@
   "dependencies": {
     "@emotion/css": "^11.11.0",
     "@heroicons/react": "^1.0.6",
+    "@nextui-org/react": "1.0.0-beta.12",
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/typography": "^0.5.9",
     "@types/node": "20.1.3",
